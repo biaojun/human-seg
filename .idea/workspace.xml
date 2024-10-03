@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad954076-3e74-4aed-9c6c-9946d7677d7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="JupyterTrust" id="0e021005-9a04-4df9-8ccd-141166215ed6" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1pVFYWluPmHoEUIHBVFP9cvGPuY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/study/cv/project/pro/project/human_seg/img_seg",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\prj_class\img_seg\bins" />
+      <recent name="F:\prj_class\img_seg\tools" />
+      <recent name="F:\prj_class\img_seg\config" />
+      <recent name="F:\prj_class\img_seg\src" />
+      <recent name="F:\prj_class\img_seg\datasets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.analysis_badcase">
+    <configuration name="analysis_badcase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imgseg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bins" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bins/analysis_badcase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bisenet_camera" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imgseg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bins" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bins/bisenet_camera.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exif_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imgseg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cv2-pil-read_img" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cv2-pil-read_img/exif_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predictor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imgseg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/predictor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seg_aug_func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imgseg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aug_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aug_demo/seg_aug_func.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.analysis_badcase" />
+        <item itemvalue="Python.predictor" />
+        <item itemvalue="Python.exif_analysis" />
+        <item itemvalue="Python.seg_aug_func" />
+        <item itemvalue="Python.bisenet_camera" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad954076-3e74-4aed-9c6c-9946d7677d7c" name="Default Changelist" comment="" />
+      <created>1615260398587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615260398587</updated>
+      <workItem from="1615260399932" duration="8363000" />
+      <workItem from="1615278772515" duration="1264000" />
+      <workItem from="1615429912486" duration="9250000" />
+      <workItem from="1615446226219" duration="8934000" />
+      <workItem from="1615456805808" duration="284000" />
+      <workItem from="1615511373904" duration="2265000" />
+      <workItem from="1615551772957" duration="1480000" />
+      <workItem from="1615558830405" duration="2820000" />
+      <workItem from="1615598983078" duration="10441000" />
+      <workItem from="1615690755534" duration="17993000" />
+      <workItem from="1615771203683" duration="17044000" />
+      <workItem from="1615856366074" duration="18966000" />
+      <workItem from="1615885167082" duration="3090000" />
+      <workItem from="1615971337545" duration="607000" />
+      <workItem from="1616028897150" duration="13520000" />
+      <workItem from="1616069046329" duration="7240000" />
+      <workItem from="1616119449307" duration="8213000" />
+      <workItem from="1616133905692" duration="7468000" />
+      <workItem from="1616462119545" duration="1854000" />
+      <workItem from="1616480644039" duration="94000" />
+      <workItem from="1616638761823" duration="9931000" />
+      <workItem from="1616660788671" duration="5441000" />
+      <workItem from="1616720205846" duration="19856000" />
+      <workItem from="1616805355541" duration="5564000" />
+      <workItem from="1616979753003" duration="3786000" />
+      <workItem from="1616997202647" duration="1301000" />
+      <workItem from="1617009549036" duration="1247000" />
+      <workItem from="1617012361854" duration="641000" />
+      <workItem from="1617069543945" duration="17630000" />
+      <workItem from="1617152936954" duration="22190000" />
+      <workItem from="1617185438227" duration="499000" />
+      <workItem from="1617239278173" duration="23745000" />
+      <workItem from="1617278649278" duration="5780000" />
+      <workItem from="1617325190836" duration="7999000" />
+      <workItem from="1617372271418" duration="674000" />
+      <workItem from="1617589034959" duration="12957000" />
+      <workItem from="1617633047287" duration="1439000" />
+      <workItem from="1617671287547" duration="748000" />
+      <workItem from="1617852140631" duration="3786000" />
+      <workItem from="1617932318838" duration="9221000" />
+      <workItem from="1618056862069" duration="1451000" />
+      <workItem from="1618103906197" duration="98000" />
+      <workItem from="1620617713056" duration="3446000" />
+      <workItem from="1620628938432" duration="6384000" />
+      <workItem from="1620698653807" duration="5289000" />
+      <workItem from="1620724572280" duration="1161000" />
+      <workItem from="1620726518808" duration="1256000" />
+      <workItem from="1620787970777" duration="1732000" />
+      <workItem from="1620789805588" duration="4645000" />
+      <workItem from="1620960194723" duration="127000" />
+      <workItem from="1620985897906" duration="945000" />
+      <workItem from="1621165842121" duration="5017000" />
+      <workItem from="1627207774325" duration="3266000" />
+      <workItem from="1627218007757" duration="2764000" />
+      <workItem from="1627525265256" duration="2470000" />
+      <workItem from="1627528060235" duration="1249000" />
+      <workItem from="1627537708531" duration="301000" />
+      <workItem from="1627561678833" duration="6220000" />
+      <workItem from="1627751278327" duration="3092000" />
+      <workItem from="1627757109292" duration="733000" />
+      <workItem from="1627822061736" duration="3656000" />
+      <workItem from="1627829090548" duration="177000" />
+      <workItem from="1627896598392" duration="476000" />
+      <workItem from="1628130549035" duration="9536000" />
+      <workItem from="1628150529541" duration="2337000" />
+      <workItem from="1628167889534" duration="5975000" />
+      <workItem from="1628211893402" duration="882000" />
+      <workItem from="1628217232216" duration="939000" />
+      <workItem from="1628387421677" duration="5506000" />
+      <workItem from="1628473686053" duration="779000" />
+      <workItem from="1628672753997" duration="2016000" />
+      <workItem from="1628675585151" duration="118000" />
+      <workItem from="1628676217515" duration="3000" />
+      <workItem from="1628731616255" duration="1324000" />
+      <workItem from="1628757294500" duration="636000" />
+      <workItem from="1628772708874" duration="4374000" />
+      <workItem from="1726031704974" duration="26183000" />
+      <workItem from="1726125507045" duration="7245000" />
+      <workItem from="1726295818253" duration="3990000" />
+      <workItem from="1727256333862" duration="4824000" />
+      <workItem from="1727423476450" duration="204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/web_deploy/app.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datasets/camvid_dataset.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/resnet.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/deeplabv3_plus.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/deeplabv3_plus.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/model_trainer_bisenet.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/coco_tool.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/coco_tool.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/coco_tool.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/coco_tool.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/img_seg$predictor.coverage" NAME="predictor 覆盖结果" MODIFIED="1726073798615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/imgseg$segnet.coverage" NAME="segnet Coverage Results" MODIFIED="1615274825383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/img_seg$coco_tool.coverage" NAME="coco_tool 覆盖结果" MODIFIED="1726042702502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/imgseg$lr_range_test_bisnet.coverage" NAME="lr_range_test_bisnet Coverage Results" MODIFIED="1615800344262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/imgseg$my_loss.coverage" NAME="my_loss Coverage Results" MODIFIED="1617262897731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/img_seg$segnet.coverage" NAME="segnet Coverage Results" MODIFIED="1620790516812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/img_seg$camvid_train.coverage" NAME="camvid_train Coverage Results" MODIFIED="1627570619005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/imgseg$modnet_train.coverage" NAME="modnet_train Coverage Results" MODIFIED="1617610069731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/img_seg$my_lr_schedule.coverage" NAME="my_lr_schedule Coverage Results" MODIFIED="1628173775732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/imgseg$valid_modnet.coverage" NAME="valid_modnet Coverage Results" MODIFIED="1617326599396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/img_seg$dice_loss.coverage" NAME="dice_loss Coverage Results" MODIFIED="1628172709718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/losses" />
+    <SUITE FILE_PATH="coverage/imgseg$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1617089949275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_deploy" />
+    <SUITE FILE_PATH="coverage/imgseg$data_valid.coverage" NAME="data_valid Coverage Results" MODIFIED="1617160003416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/img_seg$deeplabv3_plus.coverage" NAME="deeplabv3_plus Coverage Results" MODIFIED="1621174668423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/imgseg$web_de.coverage" NAME="web_de Coverage Results" MODIFIED="1617087804443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_deploy" />
+    <SUITE FILE_PATH="coverage/img_seg$portrait_config.coverage" NAME="portrait_config 覆盖结果" MODIFIED="1726057246313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/imgseg$px.coverage" NAME="px Coverage Results" MODIFIED="1616480698325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imgseg$modnet_config.coverage" NAME="modnet_config Coverage Results" MODIFIED="1617157089291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/img_seg$lr_range_test.coverage" NAME="lr_range_test Coverage Results" MODIFIED="1627567125165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/imgseg$model_trainer.coverage" NAME="model_trainer Coverage Results" MODIFIED="1615802532971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/img_seg$portrait_dataset.coverage" NAME="portrait_dataset Coverage Results" MODIFIED="1628433046915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/img_seg$unet.coverage" NAME="unet Coverage Results" MODIFIED="1621173029087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/img_seg$build_BiSeNet.coverage" NAME="build_BiSeNet Coverage Results" MODIFIED="1627826291021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/imgseg$bisenet_camera.coverage" NAME="bisenet_camera Coverage Results" MODIFIED="1617966529921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/img_seg$bisenet_inference.coverage" NAME="bisenet_inference Coverage Results" MODIFIED="1627827708397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/img_seg$portrait_train.coverage" NAME="portrait_train 覆盖结果" MODIFIED="1726058963862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/imgseg$bisenetv1.coverage" NAME="bisenetv1 Coverage Results" MODIFIED="1615777599621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/imgseg$check_value.coverage" NAME="check_value Coverage Results" MODIFIED="1616655763727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/imgseg$camvid_inference.coverage" NAME="camvid_inference Coverage Results" MODIFIED="1617072708081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/imgseg$my_dataset.coverage" NAME="my_dataset Coverage Results" MODIFIED="1616811589055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/imgseg$camvid_config.coverage" NAME="camvid_config Coverage Results" MODIFIED="1615559764425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/img_seg$bisenet_camera.coverage" NAME="bisenet_camera Coverage Results" MODIFIED="1628674700307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/img_seg$seg_aug_func.coverage" NAME="seg_aug_func Coverage Results" MODIFIED="1628757329610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aug_demo" />
+    <SUITE FILE_PATH="coverage/img_seg$analysis_badcase.coverage" NAME="analysis_badcase Coverage Results" MODIFIED="1628778271281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/img_seg$exif_analysis.coverage" NAME="exif_analysis Coverage Results" MODIFIED="1628775094000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv2-pil-read_img" />
+    <SUITE FILE_PATH="coverage/img_seg$bisenet_inference_homework_ziyang.coverage" NAME="bisenet_inference_homework_ziyang Coverage Results" MODIFIED="1628169481048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/imgseg$app.coverage" NAME="app Coverage Results" MODIFIED="1617180018708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_deploy" />
+    <SUITE FILE_PATH="coverage/imgseg$bisenet_inference.coverage" NAME="bisenet_inference Coverage Results" MODIFIED="1618057469218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/img_seg$fuision_img.coverage" NAME="fuision_img Coverage Results" MODIFIED="1628432713836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/img_seg$focal_loss.coverage" NAME="focal_loss Coverage Results" MODIFIED="1628172971477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/losses" />
+    <SUITE FILE_PATH="coverage/imgseg$portrait_config.coverage" NAME="portrait_config Coverage Results" MODIFIED="1617279404694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/imgseg$pytorch_cuda.coverage" NAME="pytorch_cuda Coverage Results" MODIFIED="1616662728060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/imgseg_bak$camvid_train.coverage" NAME="camvid_train Coverage Results" MODIFIED="1620619266892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/img_seg$focal_loss_binary.coverage" NAME="focal_loss_binary Coverage Results" MODIFIED="1628173403449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/losses" />
+    <SUITE FILE_PATH="coverage/img_seg$camvid_config.coverage" NAME="camvid_config Coverage Results" MODIFIED="1627570236871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/imgseg$camvid_train.coverage" NAME="camvid_train Coverage Results" MODIFIED="1616652422594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/imgseg$model_trainer_modenet.coverage" NAME="model_trainer_modenet Coverage Results" MODIFIED="1617157667709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/imgseg$deeplabv3_plus.coverage" NAME="deeplabv3_plus Coverage Results" MODIFIED="1615274964901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/img_seg$camvid_dataset.coverage" NAME="camvid_dataset Coverage Results" MODIFIED="1627222760050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/img_seg$segnet_inference.coverage" NAME="segnet_inference Coverage Results" MODIFIED="1627569494584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/imgseg$hist_label.coverage" NAME="hist_label Coverage Results" MODIFIED="1616652611813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/imgseg$portrait_train.coverage" NAME="portrait_train Coverage Results" MODIFIED="1617633206352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/imgseg$bisenetv2.coverage" NAME="bisenetv2 Coverage Results" MODIFIED="1615775812392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/img_seg$cross_entropy.coverage" NAME="cross_entropy Coverage Results" MODIFIED="1628173485634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/losses" />
+    <SUITE FILE_PATH="coverage/imgseg$lr_range_test.coverage" NAME="lr_range_test Coverage Results" MODIFIED="1616660394891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+    <SUITE FILE_PATH="coverage/img_seg$bce_dice_loss.coverage" NAME="bce_dice_loss Coverage Results" MODIFIED="1628173553231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/losses" />
+    <SUITE FILE_PATH="coverage/imgseg$unet.coverage" NAME="unet Coverage Results" MODIFIED="1615433067597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/imgseg$my_lr_schedule.coverage" NAME="my_lr_schedule Coverage Results" MODIFIED="1616726292674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/imgseg$aug_demo.coverage" NAME="aug_demo Coverage Results" MODIFIED="1617608537941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bins" />
+  </component>
+</project>
