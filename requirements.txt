@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+matplotlib
+opencv-python
+Pillow
+pandas
+easydict
+albumentations
+ttah
+scikit-image
+torch_lr_finder
